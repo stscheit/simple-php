@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <generator>RSS Builder by B!Soft</generator>
+    <title>State of Mind</title>
+    <link>https://microsoftapc.sharepoint.com/teams/StateofMind</link>
+    <description>Stories about strength, well-being and mental health.</description>
+    <language>en-us</language>
+    <managingEditor>vesierts@microsoft.com</managingEditor>
+    <webMaster>vesierts@microsoft.com</webMaster>
+    <copyright>2020</copyright>
+    <image>
+      <title>State of Mind</title>
+      <link>https://microsoftapc.sharepoint.com/teams/StateofMind</link>
+      <url>https://microsoftapc.sharepoint.com/_api/v2.1/drives/b!09MMD0w1YUimlEHGcGDn4kwtUCmD9XhNginnTiFKFUmPZ8nKqNPvT6VBhNq_zp9j/items/01S4ZFVNKJOYEJWO4G3RG2M5LCS46LN7CH/thumbnails/0/c1600x99999/content?preferNoRedirect=true&amp;prefer=extendCacheMaxAge&amp;clientType=modernWebPart</url>
+    </image>
+    <item>
+      <title>Episode 3 - Greg Kelaart-Courtney</title>
+      <pubDate>Thu, 26 Nov 2020 23:52:16 +1100</pubDate>
+      <link>https://microsoftapc.sharepoint.com/teams/StateofMind/SitePages/E3---Greg-Kelaart-Courtney-(KC)%2C-MCS-Program-Architect-(Asia).aspx</link>
+      <author>vesierts@microsoft.com</author>
+      <category>Mental health and well-being</category>
+      <description><![CDATA[In episode 3, hear from Greg KC on how he used structure to get through 200+ days of COVID isolation.]]></description>
+    </item>
+    <item>
+      <title>Episode 2 - Michelle Markham</title>
+      <pubDate>Thu, 12 Nov 2020 23:50:45 +1100</pubDate>
+      <link>https://microsoftapc.sharepoint.com/teams/StateofMind/SitePages/Episode-2---Michelle-Markham.aspx</link>
+      <author>vesierts@microsoft.com</author>
+      <category>Mental health and well-being</category>
+      <description><![CDATA[In our second episode, hear from Michelle Markham and how she is balancing life as a Mum of four kids with her fulltime job at Microsoft]]></description>
+    </item>
+    <item>
+      <title>Episode 1 - Vajira Weerasekera</title>
+      <pubDate>Thu, 12 Nov 2020 23:46:17 +1100</pubDate>
+      <link>https://microsoftapc.sharepoint.com/teams/StateofMind/SitePages/Episode-1---Vajira-Weerasekera.aspx</link>
+      <author>vesierts@microsoft.com</author>
+      <category>Mental health and well-being</category>
+      <description><![CDATA[In our launch episode, hear from Vajira how he set his mind to pushing his body and mind in order to run ultra marathons.]]></description>
+    </item>
+  </channel>
+</rss>
